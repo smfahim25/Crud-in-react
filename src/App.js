@@ -3,7 +3,7 @@ import Crud from './Crud/Crud';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <Crud></Crud>
     </div>
   );
